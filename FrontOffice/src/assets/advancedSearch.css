@@ -1,0 +1,8 @@
+.searchBox{
+    display: grid;
+    height: 18vh;
+    background-color: linear-gradient(#245fd6,rgb(218, 218, 224));
+    -moz-box-shadow: 0 0 5px 0 #ccc;
+  -webkit-box-shadow: 0 0 5px 0 #ccc;
+  box-shadow: 0 0 10px 0 #ccc;
+}
